@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>TimerItem.qml</file>
+        <file>TimerRowDesktop.qml</file>
+        <file>TimerRowMobile.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>timer_white.png</file>
+        <file>add_white.png</file>
+        <file>start.png</file>
+        <file>stop.png</file>
+        <file>delete.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
